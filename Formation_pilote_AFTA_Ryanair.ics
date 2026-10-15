@@ -1,0 +1,2466 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Formation pilote//AFTA Ryanair//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formation pilote - AFTA Ryanair
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-10@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 1–3 : concepts\, circulation\, oxygène
+DESCRIPTION:Domaine : ATPL\nSemaine : 1\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261019T090000
+DTEND;TZID=Europe/Paris:20261019T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-11@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 1\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261019T111500
+DTEND;TZID=Europe/Paris:20261019T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-12@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Contacter AFTA : étapes Future Flyer\, délai 
+ tests/entretiens et calendrier
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 1\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261019T140000
+DTEND;TZID=Europe/Paris:20261019T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-13@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 1–3 : concepts\, circulation\, oxygène
+DESCRIPTION:Domaine : ATPL\nSemaine : 1\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261020T090000
+DTEND;TZID=Europe/Paris:20261020T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-14@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 1\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261020T111500
+DTEND;TZID=Europe/Paris:20261020T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-15@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Diagnostic anglais oral 20 min \; enregistrer e
+ t identifier 3 faiblesses
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 1\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261020T140000
+DTEND;TZID=Europe/Paris:20261020T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-16@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 1–3 : concepts\, circulation\, oxygène
+DESCRIPTION:Domaine : ATPL\nSemaine : 1\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261021T090000
+DTEND;TZID=Europe/Paris:20261021T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-17@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 1\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261021T111500
+DTEND;TZID=Europe/Paris:20261021T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-18@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Demander à l’aéroclub les créneaux PPL res
+ tants et fenêtre examinateur décembre
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 1\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261021T140000
+DTEND;TZID=Europe/Paris:20261021T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-19@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 1\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261022T090000
+DTEND;TZID=Europe/Paris:20261022T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-20@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 1\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261022T111500
+DTEND;TZID=Europe/Paris:20261022T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-21@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Vérifier classe 1\, carnet de vol\, éléments
+  d’éligibilité et crédit 40 h
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 1\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-22@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Human Performa
+ nce
+DESCRIPTION:Domaine : ATPL\nSemaine : 1\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261023T090000
+DTEND;TZID=Europe/Paris:20261023T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-23@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 1\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261023T111500
+DTEND;TZID=Europe/Paris:20261023T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-24@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Bilan : réponse AFTA\, rétroplanning\, dates 
+ de vols et préparation TDP 27/10
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 1\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261023T140000
+DTEND;TZID=Europe/Paris:20261023T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-26@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 4–6 : oreille\, vision\, santé
+DESCRIPTION:Domaine : ATPL\nSemaine : 2\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261026T090000
+DTEND;TZID=Europe/Paris:20261026T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-27@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 2\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261026T111500
+DTEND;TZID=Europe/Paris:20261026T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-28@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer dossier de candidature : CV en anglai
+ s et présentation personnelle
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 2\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261026T140000
+DTEND;TZID=Europe/Paris:20261026T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-29@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision courte : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 2\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 1\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261027T090000
+DTEND;TZID=Europe/Paris:20261027T100000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-30@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 2\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261027T111500
+DTEND;TZID=Europe/Paris:20261027T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-31@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:PPL — TDP instructeur + solo : touché\, remise de gaz\, comple
+ t (vol prévu)
+DESCRIPTION:Domaine : PPL\nSemaine : 2\nStatut Excel : Planifié\nPriorit
+ é : Critique\nHeures prévues : 2.5\nÀ modifier dans le classeur Excel 
+ source (pas dans Apple Calendrier).
+CATEGORIES:PPL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-32@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 4–6 : oreille\, vision\, santé
+DESCRIPTION:Domaine : ATPL\nSemaine : 2\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261028T090000
+DTEND;TZID=Europe/Paris:20261028T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-33@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 2\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261028T111500
+DTEND;TZID=Europe/Paris:20261028T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-34@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Contacter AFTA si pas de réponse : planning de
+ s épreuves et prix net après crédit PPL
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 2\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261028T140000
+DTEND;TZID=Europe/Paris:20261028T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-35@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 2\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261029T090000
+DTEND;TZID=Europe/Paris:20261029T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-36@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 2\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261029T111500
+DTEND;TZID=Europe/Paris:20261029T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-37@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer navigation Avignon 03/11 (itinéraire
+ \, pannes\, espaces\, météo)
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 2\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261029T140000
+DTEND;TZID=Europe/Paris:20261029T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-38@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Human Performa
+ nce
+DESCRIPTION:Domaine : ATPL\nSemaine : 2\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261030T090000
+DTEND;TZID=Europe/Paris:20261030T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-39@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 2\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261030T111500
+DTEND;TZID=Europe/Paris:20261030T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-40@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Chiffrer coûts Cork + vie + marge \; classer p
+ ièces bancaires
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 2\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261030T140000
+DTEND;TZID=Europe/Paris:20261030T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-42@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 7–11 : stress\, cognition\, fatigue
+DESCRIPTION:Domaine : ATPL\nSemaine : 3\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261102T090000
+DTEND;TZID=Europe/Paris:20261102T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-43@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 3\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261102T111500
+DTEND;TZID=Europe/Paris:20261102T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-44@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Mettre à jour dossier AFTA \; confirmer évalu
+ ation en présentiel et délais
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 3\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261102T140000
+DTEND;TZID=Europe/Paris:20261102T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-45@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision courte : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 3\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 1\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261103T090000
+DTEND;TZID=Europe/Paris:20261103T100000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-46@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 3\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261103T111500
+DTEND;TZID=Europe/Paris:20261103T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-47@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:PPL — Nav Montpellier–Avignon A/R + entraînement pannes (vol
+  prévu)
+DESCRIPTION:Domaine : PPL\nSemaine : 3\nStatut Excel : Planifié\nPriorit
+ é : Critique\nHeures prévues : 3\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:PPL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-48@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 7–11 : stress\, cognition\, fatigue
+DESCRIPTION:Domaine : ATPL\nSemaine : 3\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261104T090000
+DTEND;TZID=Europe/Paris:20261104T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-49@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 3\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261104T111500
+DTEND;TZID=Europe/Paris:20261104T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-50@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer questions Ryanair : stratégie\, opé
+ rations\, formation\, compromis du métier
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 3\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261104T140000
+DTEND;TZID=Europe/Paris:20261104T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-51@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 3\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261105T090000
+DTEND;TZID=Europe/Paris:20261105T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-52@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 3\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261105T111500
+DTEND;TZID=Europe/Paris:20261105T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-53@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Tester CUT-E en conditions chronométrées \; a
+ nalyser erreurs
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 3\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261105T140000
+DTEND;TZID=Europe/Paris:20261105T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-54@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Human Performa
+ nce
+DESCRIPTION:Domaine : ATPL\nSemaine : 3\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261106T090000
+DTEND;TZID=Europe/Paris:20261106T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-55@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 3\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261106T111500
+DTEND;TZID=Europe/Paris:20261106T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-56@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer TDP du 09/11 \; vérifier disponibili
+ té solo 13/11
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 3\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261106T140000
+DTEND;TZID=Europe/Paris:20261106T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-58@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision courte : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 4\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 1\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261109T090000
+DTEND;TZID=Europe/Paris:20261109T100000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-59@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 4\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261109T111500
+DTEND;TZID=Europe/Paris:20261109T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-60@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:PPL — TDP instructeur + solo : touché\, remise de gaz\, comple
+ t (vol prévu)
+DESCRIPTION:Domaine : PPL\nSemaine : 4\nStatut Excel : Planifié\nPriorit
+ é : Critique\nHeures prévues : 2.5\nÀ modifier dans le classeur Excel 
+ source (pas dans Apple Calendrier).
+CATEGORIES:PPL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-61@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 12–17 : décision\, communication\, CRM
+DESCRIPTION:Domaine : ATPL\nSemaine : 4\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261110T090000
+DTEND;TZID=Europe/Paris:20261110T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-62@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 4\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261110T111500
+DTEND;TZID=Europe/Paris:20261110T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-63@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Mettre à jour les réponses AFTA et confirmer 
+ délai de sélection réel
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 4\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261110T140000
+DTEND;TZID=Europe/Paris:20261110T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-64@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Ch. 12–17 : décision\, communication\, CRM
+DESCRIPTION:Domaine : ATPL\nSemaine : 4\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261111T090000
+DTEND;TZID=Europe/Paris:20261111T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-65@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 4\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261111T111500
+DTEND;TZID=Europe/Paris:20261111T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-66@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Entretien blanc Ryanair/AFTA n°1 : parcours et
+  comportements
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 4\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261111T140000
+DTEND;TZID=Europe/Paris:20261111T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-67@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 4\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261112T090000
+DTEND;TZID=Europe/Paris:20261112T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-68@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 4\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261112T111500
+DTEND;TZID=Europe/Paris:20261112T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-69@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer éventuelle nav solo 13/11 avec instr
+ ucteur
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 4\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261112T140000
+DTEND;TZID=Europe/Paris:20261112T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-70@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision courte : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 4\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 1\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261113T090000
+DTEND;TZID=Europe/Paris:20261113T100000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-71@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 4\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261113T111500
+DTEND;TZID=Europe/Paris:20261113T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-72@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:PPL — Nav solo ~1 h 30 : PROVISOIRE\, accord instructeur requis
+DESCRIPTION:Domaine : PPL\nSemaine : 4\nStatut Excel : Sous réserve\nPri
+ orité : Critique\nHeures prévues : 3\nÀ modifier dans le classeur Exce
+ l source (pas dans Apple Calendrier).
+CATEGORIES:PPL
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-74@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Révision cumulative\, questions inédites
+DESCRIPTION:Domaine : ATPL\nSemaine : 5\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261116T090000
+DTEND;TZID=Europe/Paris:20261116T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-75@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 5\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261116T111500
+DTEND;TZID=Europe/Paris:20261116T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-76@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Demander dates restantes des nav solos et dispo
+ nibilité examinateur
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 5\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261116T140000
+DTEND;TZID=Europe/Paris:20261116T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-77@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Révision cumulative\, questions inédites
+DESCRIPTION:Domaine : ATPL\nSemaine : 5\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261117T090000
+DTEND;TZID=Europe/Paris:20261117T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-78@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 5\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261117T111500
+DTEND;TZID=Europe/Paris:20261117T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-79@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Entretien blanc anglais : questions inattendues
+  et relances
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 5\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261117T140000
+DTEND;TZID=Europe/Paris:20261117T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-80@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Révision cumulative\, questions inédites
+DESCRIPTION:Domaine : ATPL\nSemaine : 5\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261118T090000
+DTEND;TZID=Europe/Paris:20261118T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-81@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 5\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261118T111500
+DTEND;TZID=Europe/Paris:20261118T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-82@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Suivre banques et demander conditions de financ
+ ement (sans engagement)
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 5\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261118T140000
+DTEND;TZID=Europe/Paris:20261118T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-83@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Human Performance
+DESCRIPTION:Domaine : ATPL\nSemaine : 5\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261119T090000
+DTEND;TZID=Europe/Paris:20261119T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-84@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 5\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261119T111500
+DTEND;TZID=Europe/Paris:20261119T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-85@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — PPL : procédures pannes / navigation\, briefin
+ g solo si autorisé
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 5\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261119T140000
+DTEND;TZID=Europe/Paris:20261119T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-86@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Human Performa
+ nce
+DESCRIPTION:Domaine : ATPL\nSemaine : 5\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261120T090000
+DTEND;TZID=Europe/Paris:20261120T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-87@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 5\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261120T111500
+DTEND;TZID=Europe/Paris:20261120T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-88@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Réévaluer candidature et vérifier si sélect
+ ion déjà programmée
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 5\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261120T140000
+DTEND;TZID=Europe/Paris:20261120T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-90@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Masses\, bras de levier\, moments\, centre de g
+ ravité
+DESCRIPTION:Domaine : ATPL\nSemaine : 6\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261123T090000
+DTEND;TZID=Europe/Paris:20261123T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-91@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 6\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261123T111500
+DTEND;TZID=Europe/Paris:20261123T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-92@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Demander/tenir nav solo suivante (date non conf
+ irmée)
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 6\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261123T140000
+DTEND;TZID=Europe/Paris:20261123T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-93@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Masses\, bras de levier\, moments\, centre de g
+ ravité
+DESCRIPTION:Domaine : ATPL\nSemaine : 6\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261124T090000
+DTEND;TZID=Europe/Paris:20261124T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-94@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 6\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261124T111500
+DTEND;TZID=Europe/Paris:20261124T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-95@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — CUT-E : batterie complète logique\, spatial\, 
+ multitâche
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 6\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261124T140000
+DTEND;TZID=Europe/Paris:20261124T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-96@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Masses\, bras de levier\, moments\, centre de g
+ ravité
+DESCRIPTION:Domaine : ATPL\nSemaine : 6\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261125T090000
+DTEND;TZID=Europe/Paris:20261125T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-97@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 6\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261125T111500
+DTEND;TZID=Europe/Paris:20261125T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-98@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Préparer dossier bancaire complet si devis re
+ çu
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 6\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261125T140000
+DTEND;TZID=Europe/Paris:20261125T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-99@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Mass & Balance
+DESCRIPTION:Domaine : ATPL\nSemaine : 6\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261126T090000
+DTEND;TZID=Europe/Paris:20261126T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-100@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 6\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261126T111500
+DTEND;TZID=Europe/Paris:20261126T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-101@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — PPL : préparation examens\, procédures d’ur
+ gence et déroutement
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 6\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261126T140000
+DTEND;TZID=Europe/Paris:20261126T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-102@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Mass & Balance
+DESCRIPTION:Domaine : ATPL\nSemaine : 6\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261127T090000
+DTEND;TZID=Europe/Paris:20261127T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-103@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 6\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261127T111500
+DTEND;TZID=Europe/Paris:20261127T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-104@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Test Mass & Balance et bilan hebdomadaire
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 6\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261127T140000
+DTEND;TZID=Europe/Paris:20261127T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-106@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Enveloppes\, chargements\, exercices chronomét
+ rés
+DESCRIPTION:Domaine : ATPL\nSemaine : 7\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261130T090000
+DTEND;TZID=Europe/Paris:20261130T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-107@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 7\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261130T111500
+DTEND;TZID=Europe/Paris:20261130T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-108@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Nav solo restante\, selon météo / disponibili
+ té (non confirmée)
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 7\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261130T140000
+DTEND;TZID=Europe/Paris:20261130T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-109@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Enveloppes\, chargements\, exercices chronomét
+ rés
+DESCRIPTION:Domaine : ATPL\nSemaine : 7\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261201T090000
+DTEND;TZID=Europe/Paris:20261201T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-110@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 7\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261201T111500
+DTEND;TZID=Europe/Paris:20261201T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-111@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Simulation technique et comportementale en angl
+ ais
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 7\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261201T140000
+DTEND;TZID=Europe/Paris:20261201T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-112@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Enveloppes\, chargements\, exercices chronomét
+ rés
+DESCRIPTION:Domaine : ATPL\nSemaine : 7\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261202T090000
+DTEND;TZID=Europe/Paris:20261202T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-113@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 7\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261202T111500
+DTEND;TZID=Europe/Paris:20261202T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-114@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Faire un suivi banques : documents\, garanties\
+ , TAEG\, différé
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 7\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261202T140000
+DTEND;TZID=Europe/Paris:20261202T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-115@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Mass & Balance
+DESCRIPTION:Domaine : ATPL\nSemaine : 7\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261203T090000
+DTEND;TZID=Europe/Paris:20261203T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-116@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 7\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261203T111500
+DTEND;TZID=Europe/Paris:20261203T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-117@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Réserver/valider examen blanc PPL et examinate
+ ur décembre
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 7\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261203T140000
+DTEND;TZID=Europe/Paris:20261203T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-118@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Mass & Balance
+DESCRIPTION:Domaine : ATPL\nSemaine : 7\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261204T090000
+DTEND;TZID=Europe/Paris:20261204T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-119@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 7\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261204T111500
+DTEND;TZID=Europe/Paris:20261204T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-120@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Consolidation ATPL \; ajuster selon convocation
+  AFTA
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 7\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261204T140000
+DTEND;TZID=Europe/Paris:20261204T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-122@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Atmosphère\, pression\, température\, stabili
+ té
+DESCRIPTION:Domaine : ATPL\nSemaine : 8\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261207T090000
+DTEND;TZID=Europe/Paris:20261207T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-123@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 8\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261207T111500
+DTEND;TZID=Europe/Paris:20261207T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-124@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Faire un examen blanc PPL si recommandé par in
+ structeur
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 8\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261207T140000
+DTEND;TZID=Europe/Paris:20261207T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-125@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Atmosphère\, pression\, température\, stabili
+ té
+DESCRIPTION:Domaine : ATPL\nSemaine : 8\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261208T090000
+DTEND;TZID=Europe/Paris:20261208T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-126@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 8\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261208T111500
+DTEND;TZID=Europe/Paris:20261208T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-127@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Rendez-vous banques / suivi des demandes et dev
+ is
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 8\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261208T140000
+DTEND;TZID=Europe/Paris:20261208T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-128@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Atmosphère\, pression\, température\, stabili
+ té
+DESCRIPTION:Domaine : ATPL\nSemaine : 8\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261209T090000
+DTEND;TZID=Europe/Paris:20261209T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-129@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:CUT-E / AFTA — CUT-E : orientation spatiale\, attention
+DESCRIPTION:Domaine : CUT-E / AFTA\nSemaine : 8\nStatut Excel : À faire\
+ nPriorité : Haute\nHeures prévues : 1\nÀ modifier dans le classeur Exc
+ el source (pas dans Apple Calendrier).
+CATEGORIES:CUT-E / AFTA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261209T111500
+DTEND;TZID=Europe/Paris:20261209T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-130@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Entraînement simulateur : communication\, éco
+ ute\, correction
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 8\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261209T140000
+DTEND;TZID=Europe/Paris:20261209T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-131@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 8\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261210T090000
+DTEND;TZID=Europe/Paris:20261210T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-132@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 8\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261210T111500
+DTEND;TZID=Europe/Paris:20261210T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-133@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Revoir dernières lacunes PPL avant skill test
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 8\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261210T140000
+DTEND;TZID=Europe/Paris:20261210T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-134@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 8\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261211T090000
+DTEND;TZID=Europe/Paris:20261211T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-135@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 8\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261211T111500
+DTEND;TZID=Europe/Paris:20261211T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-136@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Valider dossier examen\, date et marges météo
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 8\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261211T140000
+DTEND;TZID=Europe/Paris:20261211T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-138@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Nuages\, fronts\, précipitations\, masses d’
+ air
+DESCRIPTION:Domaine : ATPL\nSemaine : 9\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261214T090000
+DTEND;TZID=Europe/Paris:20261214T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-139@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 9\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261214T111500
+DTEND;TZID=Europe/Paris:20261214T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-140@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Priorité : skill test PPL si prêt et créneau
+  confirmé
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 9\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261214T140000
+DTEND;TZID=Europe/Paris:20261214T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-141@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Nuages\, fronts\, précipitations\, masses d’
+ air
+DESCRIPTION:Domaine : ATPL\nSemaine : 9\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261215T090000
+DTEND;TZID=Europe/Paris:20261215T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-142@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 9\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261215T111500
+DTEND;TZID=Europe/Paris:20261215T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-143@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Debrief skill test et éventuelles actions corr
+ ectives
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 9\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261215T140000
+DTEND;TZID=Europe/Paris:20261215T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-144@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Nuages\, fronts\, précipitations\, masses d’
+ air
+DESCRIPTION:Domaine : ATPL\nSemaine : 9\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261216T090000
+DTEND;TZID=Europe/Paris:20261216T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-145@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — CRM : erreur\, conflit\, coopération\, décisio
+ n
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 9\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261216T111500
+DTEND;TZID=Europe/Paris:20261216T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-146@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Sélection AFTA/Ryanair : entretien ou prépara
+ tion selon convocation
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 9\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261216T140000
+DTEND;TZID=Europe/Paris:20261216T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-147@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 9\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261217T090000
+DTEND;TZID=Europe/Paris:20261217T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-148@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 9\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261217T111500
+DTEND;TZID=Europe/Paris:20261217T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-149@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Financement : comparer offres écrites et condi
+ tions
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 9\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261217T140000
+DTEND;TZID=Europe/Paris:20261217T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-150@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 9\nStatut Excel : À faire\nPriorit
+ é : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel sou
+ rce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261218T090000
+DTEND;TZID=Europe/Paris:20261218T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-151@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 9\nStatut Excel : À faire\
+ nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261218T111500
+DTEND;TZID=Europe/Paris:20261218T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-152@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Bilan : PPL acquis ? sinon réserver secours
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 9\nStatut Excel : À faire
+ \nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur Ex
+ cel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261218T140000
+DTEND;TZID=Europe/Paris:20261218T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-154@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Givrage\, turbulence\, orages\, phénomènes da
+ ngereux
+DESCRIPTION:Domaine : ATPL\nSemaine : 10\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261221T090000
+DTEND;TZID=Europe/Paris:20261221T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-155@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 10\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261221T111500
+DTEND;TZID=Europe/Paris:20261221T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-156@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Créneau de secours PPL si skill test non pass
+ é
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 10\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261221T140000
+DTEND;TZID=Europe/Paris:20261221T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-157@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Givrage\, turbulence\, orages\, phénomènes da
+ ngereux
+DESCRIPTION:Domaine : ATPL\nSemaine : 10\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261222T090000
+DTEND;TZID=Europe/Paris:20261222T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-158@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 10\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261222T111500
+DTEND;TZID=Europe/Paris:20261222T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-159@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Relance examinateur/instructeur pour échéance
+  du 8 janvier
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 10\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261222T140000
+DTEND;TZID=Europe/Paris:20261222T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-160@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Givrage\, turbulence\, orages\, phénomènes da
+ ngereux
+DESCRIPTION:Domaine : ATPL\nSemaine : 10\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261223T090000
+DTEND;TZID=Europe/Paris:20261223T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-161@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — CRM : erreur\, conflit\, coopération\, décisio
+ n
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 10\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261223T111500
+DTEND;TZID=Europe/Paris:20261223T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-162@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Suivi bancaire et financement conditionnel
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 10\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261223T140000
+DTEND;TZID=Europe/Paris:20261223T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-163@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 10\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261224T090000
+DTEND;TZID=Europe/Paris:20261224T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-164@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 10\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261224T111500
+DTEND;TZID=Europe/Paris:20261224T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-165@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Maintenir anglais oral\, 2 sessions + relecture
+  des erreurs
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 10\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261224T140000
+DTEND;TZID=Europe/Paris:20261224T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-166@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 10\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261225T090000
+DTEND;TZID=Europe/Paris:20261225T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-167@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 10\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261225T111500
+DTEND;TZID=Europe/Paris:20261225T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-168@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — ATPL météo \; semaine potentiellement allég
+ ée fêtes
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 10\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261225T140000
+DTEND;TZID=Europe/Paris:20261225T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-170@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier METAR\, TAF\, SIGMET\, cartes et situation mét
+ éo
+DESCRIPTION:Domaine : ATPL\nSemaine : 11\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261228T090000
+DTEND;TZID=Europe/Paris:20261228T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-171@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 11\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261228T111500
+DTEND;TZID=Europe/Paris:20261228T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-172@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Dernière fenêtre de secours PPL à organiser 
+ selon disponibilités
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 11\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261228T140000
+DTEND;TZID=Europe/Paris:20261228T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-173@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier METAR\, TAF\, SIGMET\, cartes et situation mét
+ éo
+DESCRIPTION:Domaine : ATPL\nSemaine : 11\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261229T090000
+DTEND;TZID=Europe/Paris:20261229T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-174@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 11\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261229T111500
+DTEND;TZID=Europe/Paris:20261229T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-175@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Confirmer statut du PPL\, démarches de délivr
+ ance et attestations
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 11\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261229T140000
+DTEND;TZID=Europe/Paris:20261229T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-176@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier METAR\, TAF\, SIGMET\, cartes et situation mét
+ éo
+DESCRIPTION:Domaine : ATPL\nSemaine : 11\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261230T090000
+DTEND;TZID=Europe/Paris:20261230T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-177@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — CRM : erreur\, conflit\, coopération\, décisio
+ n
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 11\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261230T111500
+DTEND;TZID=Europe/Paris:20261230T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-178@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Anglais oral : échange spontané et connaissan
+ ces Ryanair
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 11\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261230T140000
+DTEND;TZID=Europe/Paris:20261230T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-179@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 11\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261231T090000
+DTEND;TZID=Europe/Paris:20261231T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-180@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 11\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261231T111500
+DTEND;TZID=Europe/Paris:20261231T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-181@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Banques : conditions contractuelles et cautions
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 11\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20261231T140000
+DTEND;TZID=Europe/Paris:20261231T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-182@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Meteorology
+DESCRIPTION:Domaine : ATPL\nSemaine : 11\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270101T090000
+DTEND;TZID=Europe/Paris:20270101T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-183@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 11\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270101T111500
+DTEND;TZID=Europe/Paris:20270101T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-184@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Météo ATPL + bilan de fin d’année
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 11\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270101T140000
+DTEND;TZID=Europe/Paris:20270101T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-186@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Tests mixtes : HPL\, M&B\, Météo + plan suiva
+ nt
+DESCRIPTION:Domaine : ATPL\nSemaine : 12\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270104T090000
+DTEND;TZID=Europe/Paris:20270104T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-187@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Présentation\, motivation\, « Why AFTA / Why R
+ yanair? »
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 12\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270104T111500
+DTEND;TZID=Europe/Paris:20270104T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-188@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Vérifier impérativement le statut skill test 
+ PPL avant le 8 janvier
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 12\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270104T140000
+DTEND;TZID=Europe/Paris:20270104T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-189@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Tests mixtes : HPL\, M&B\, Météo + plan suiva
+ nt
+DESCRIPTION:Domaine : ATPL\nSemaine : 12\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270105T090000
+DTEND;TZID=Europe/Paris:20270105T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-190@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Parcours ESTACA\, Airbus Helicopters\, choix pil
+ ote
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 12\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270105T111500
+DTEND;TZID=Europe/Paris:20270105T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-191@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Suivre les démarches licence si examen réussi
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 12\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270105T140000
+DTEND;TZID=Europe/Paris:20270105T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-192@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Étudier Tests mixtes : HPL\, M&B\, Météo + plan suiva
+ nt
+DESCRIPTION:Domaine : ATPL\nSemaine : 12\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270106T090000
+DTEND;TZID=Europe/Paris:20270106T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-193@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — CRM : erreur\, conflit\, coopération\, décisio
+ n
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 12\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270106T111500
+DTEND;TZID=Europe/Paris:20270106T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-194@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Bilan de la sélection AFTA\, étapes restantes
+  et dates réelles
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 12\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270106T140000
+DTEND;TZID=Europe/Paris:20270106T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-195@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Questions ATPLQ ciblées : Révisions ATPL
+DESCRIPTION:Domaine : ATPL\nSemaine : 12\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270107T090000
+DTEND;TZID=Europe/Paris:20270107T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-196@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Anglais technique : expliquer météo\, avioniqu
+ e\, PPL
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 12\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270107T111500
+DTEND;TZID=Europe/Paris:20270107T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-197@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Consolidation ATPL : test mixte et erreurs
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 12\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270107T140000
+DTEND;TZID=Europe/Paris:20270107T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-198@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:ATPL — Révision espacée et test hebdomadaire : Révisions ATP
+ L
+DESCRIPTION:Domaine : ATPL\nSemaine : 12\nStatut Excel : À faire\nPriori
+ té : Normale\nHeures prévues : 2\nÀ modifier dans le classeur Excel so
+ urce (pas dans Apple Calendrier).
+CATEGORIES:ATPL
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270108T090000
+DTEND;TZID=Europe/Paris:20270108T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-199@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:Anglais oral — Simulation entretien\, feedback et corrections
+DESCRIPTION:Domaine : Anglais oral\nSemaine : 12\nStatut Excel : À faire
+ \nPriorité : Normale\nHeures prévues : 1\nÀ modifier dans le classeur 
+ Excel source (pas dans Apple Calendrier).
+CATEGORIES:Anglais oral
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270108T111500
+DTEND;TZID=Europe/Paris:20270108T121500
+END:VEVENT
+BEGIN:VEVENT
+UID:formation-pilote-2026-row-200@planning.local
+DTSTAMP:20261015T150000Z
+SUMMARY:AFTA / autres — Bilan 12 semaines \; nouveau programme et budge
+ t actualisé
+DESCRIPTION:Domaine : AFTA / autres\nSemaine : 12\nStatut Excel : À fair
+ e\nPriorité : Haute\nHeures prévues : 2\nÀ modifier dans le classeur E
+ xcel source (pas dans Apple Calendrier).
+CATEGORIES:AFTA / autres
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Paris:20270108T140000
+DTEND;TZID=Europe/Paris:20270108T160000
+END:VEVENT
+END:VCALENDAR
